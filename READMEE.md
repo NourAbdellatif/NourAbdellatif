@@ -34,9 +34,8 @@
 </a>
 </p>
 <p align="left">
-<a href="https://stackoverflow.com/users/14043328/mostafawael" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="mostafawael" height="30" width="40" />
-</a>
- <a href="https://www.quora.com/profile/Mostafa-Wael-1-1/following">
+
+ <a href="https://www.quora.com/profile/Nour-Abdelatif-1">
   <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
 </a>
  
