@@ -50,18 +50,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NourAbdellatif&theme=dracula&show_icons=true&locale=en" alt="NourAbdellatif" /></p>
 
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdullahalshawafi&theme=dracula&repo=Mathemati_)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Engineer-mostafa&theme=dracula&repo=ONpharma)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NourAbdellatif&theme=dracula&repo=Fe-L-fdaa-swa-X86)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NourAbdellatif&theme=dracula&repo=Self-Driving-Vehicle-Control-on-CARLA)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NourAbdellatif&theme=dracula&repo=LCD-driver-Atmega328-328p)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NourAbdellatif&theme=dracula&repo=SPI-Protocol
-)](https://github.com/anuraghazra/github-readme-stats)
-</div>
--->
 </b>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NourAbdellatif&label=Profile%20views&color=0e75b6&style=flat" alt="NourAbdellatif" />
