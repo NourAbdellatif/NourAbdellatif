@@ -4,9 +4,6 @@
 
 <p align="center">
  
- [![Most Active GitHub User Rank](https://enayabaoflnczqe.m.pipedream.net)](https://commits.top/egypt.html)
- </p>
- 
 <img align='right' src='https://media.giphy.com/media/U5UlMfJSVg0bqPHVh7/giphy.gif' width='200"'>
 
 <p align="left">
