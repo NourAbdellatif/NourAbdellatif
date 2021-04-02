@@ -11,7 +11,7 @@
 
 <p align="left">
 
- [![Repos Badge](https://badges.pufler.dev/repos/NourAbdellatif)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/NourAbdellatif)](https://badges.pufler.dev)
+ [![Repos Badge](https://badges.pufler.dev/repos/NourAbdellatif)](https://badges.pufler.dev) 
  </p>
 
 
