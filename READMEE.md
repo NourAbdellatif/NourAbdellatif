@@ -15,13 +15,7 @@
  </p>
 
 
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-wael&theme=dracula" alt="mostafa-wael" /></a> </p> -->
 
-<!-- <h3 align="left">Check my resume: 📝</h3>
-<a href="https://drive.google.com/file/d/1IVkB8ge13lX5DSdteCf9O0BacDP9G2jZ/view?usp=sharing" type="application/pdf">
-
-  <img src="https://drive.google.com/file/d/1wBB8NOzgUf98CVq1zzusRgOyMGTi6dh7/view?usp=sharing" alt="Mostafa Wael | Resume"> 
 </a> -->
 
 <h3 align="left"><b>Connect with me:</b></h3>
