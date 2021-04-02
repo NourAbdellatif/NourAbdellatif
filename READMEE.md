@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/nourabdellatif/">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a> 
-<a href="mailto:mostafa.w.k000@gmail.com">
+<a href="mailto:noor.abdelatif@gmail.com">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 </p>
@@ -37,10 +37,7 @@
 
  <a href="https://www.quora.com/profile/Nour-Abdelatif-1">
   <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
-</a>
- 
-<a>   
-</a>
+</a></p>
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
