@@ -82,6 +82,4 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NourAbdellatif&label=Profile%20views&color=0e75b6&style=flat" alt="NourAbdellatif" />
 <p>
-<p align="center">
-    <img src="https://media.giphy.com/media/xUOrw01a1gy7BUwq40/giphy.gif" width="20%">
-</p>
+
