@@ -21,12 +21,13 @@
 <a href="mailto:noor.abdelatif@gmail.com">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
+ <a href="https://www.quora.com/profile/Nour-Abdelatif-1">
+  <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
+</a>
 </p>
 <p align="left">
 
- <a href="https://www.quora.com/profile/Nour-Abdelatif-1">
-  <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
-</a></p>
+ </p>
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
