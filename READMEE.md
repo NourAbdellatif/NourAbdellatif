@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mostafa Wael</h1>
-<h3 align="center">A passionate computer engineering student</h3>
-<h3 align="center">I’m currently learning <b>computer vision to help cars see 👀🚗</b></h3>
+<h1 align="left">Nour Abdellatif</h1>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 
 <p align="center">
