@@ -25,7 +25,7 @@
   <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
 </a>
   <a href="https://twitter.com/LlGHT0">
-  <img align="left" width="30px" src="https://user-images.githubusercontent.com/49102241/113428240-be4e0280-93d6-11eb-86d9-98c4c4333d66.png" draggable="false" />
+  <img align="left" width="50px" src="https://user-images.githubusercontent.com/49102241/113428240-be4e0280-93d6-11eb-86d9-98c4c4333d66.png" draggable="false" />
 </a>
 </p>
 <p align="left">
