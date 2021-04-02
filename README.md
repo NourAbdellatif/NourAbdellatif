@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left"><b>Connect with me:</b></h3>
+<h3 align="left"><b>Social:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nourabdellatif/">
   <img align="left" width="40px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
