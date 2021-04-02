@@ -23,7 +23,7 @@
 </a>
  <a href="https://www.quora.com/profile/Nour-Abdelatif-1">
   <img align="left" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
-</a>
+</a><div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </p>
 <p align="left">
 
