@@ -26,7 +26,7 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mostafa-wael-b07ab91a3">
+<a href="https://www.linkedin.com/in/nourabdellatif/">
   <img align="left" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a> 
 <a href="mailto:mostafa.w.k000@gmail.com">
