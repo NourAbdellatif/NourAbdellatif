@@ -26,7 +26,7 @@
 </a>
   <a href="https://twitter.com/LlGHT0">
   <img align="left" width="50px" src="https://user-images.githubusercontent.com/49102241/113428240-be4e0280-93d6-11eb-86d9-98c4c4333d66.png" draggable="false" />
-</a><br>
+</a>
 </p>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
