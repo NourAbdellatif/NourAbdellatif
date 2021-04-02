@@ -16,8 +16,6 @@
 
 
 
-</a> -->
-
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nourabdellatif/">
