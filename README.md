@@ -1,8 +1,7 @@
 <h1 align="left">Hello World! This is Nour Abdellatif <3</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
 
 
-<p align="center">
+<p align="left">
  
 <img align='right' src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif" width='200"'>
 
