@@ -8,9 +8,7 @@
 
 <p align="left">
 
- [![Repos Badge](https://badges.pufler.dev/repos/NourAbdellatif)](https://badges.pufler.dev) 
-    <img src="https://komarev.com/ghpvc/?username=NourAbdellatif&label=Profile%20views&color=0e75b6&style=flat" alt="NourAbdellatif" />
- </p>
+ ![](https://komarev.com/ghpvc/?username=NourAbdellatif)
 
 
 
