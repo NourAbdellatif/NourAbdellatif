@@ -19,8 +19,11 @@
 <a href="mailto:noor.abdelatif@gmail.com">
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" draggable="false" />
 </a>
- <a href="https://www.quora.com/profile/Nour-Abdelatif-1">
-  <img align="left" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/271_Quora_logo-512.png" draggable="false" />
+ <a href="https://leetcode.com/NourAbdellatif/">
+  <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" draggable="false" />
+</a>
+<a href="https://codeforces.com/profile/Light0">
+  <img align="left" width="40px" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" draggable="false" />
 </a>
   <a href="https://twitter.com/LlGHT0">
   <img align="left" width="40px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660437555~hmac=8670cf109695befe26da1254089ee4a3" draggable="false" /><br><br>
