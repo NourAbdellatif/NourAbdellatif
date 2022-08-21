@@ -14,7 +14,7 @@
 <h3 align="left"><b>Social:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nourabdellatif/">
-  <img align="left" width="40px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1660437431~hmac=d6a3c2d359f36a708bc29b79643df9bf" draggable="false" />
+  <img align="left" width="40px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" draggable="false" />
 </a> 
 <a href="mailto:noor.abdelatif@gmail.com">
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" draggable="false" />
