@@ -25,8 +25,7 @@
 <a href="https://codeforces.com/profile/Light0">
   <img align="left" width="40px" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" draggable="false" />
 </a>
-  <a href="https://twitter.com/LlGHT0">
-  <img align="left" width="40px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1660437555~hmac=8670cf109695befe26da1254089ee4a3" draggable="false" /><br><br>
+
    <br>
 </a>
 </p>
